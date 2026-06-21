@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![DevDash App Screenshot](.asset/screenshot.png)
+![DevDash App Screenshot](.ajt-devdash/asset/screenshot.png)
 
 ## Local Run/Build Instructions
 
